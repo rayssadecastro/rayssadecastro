@@ -1,7 +1,7 @@
 ### Olá, seja bem vindo ao meu perfil do GitHub 👋
 
 - 💻 Estou cursando tecnologia para internet na ETEC MCM.
-- 💬 Meu nome é Rayssa Vitória de Castro e tenho 16 anos.
+- 💬 Meu nome é Rayssa Vitória de Castro e tenho 18 anos.
 - 📫 Como me contatar: rayssacastrovitoria@outlook.com
 
 <div align="center">
